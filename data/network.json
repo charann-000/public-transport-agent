@@ -1,0 +1,1455 @@
+{
+  "name": "Hyderabad sample network (demo data, approximate geography)",
+  "stops": [
+    {
+      "id": "NGN",
+      "name": "Nagole",
+      "lat": 17.384,
+      "lon": 78.561
+    },
+    {
+      "id": "LBN",
+      "name": "LB Nagar",
+      "lat": 17.377,
+      "lon": 78.555
+    },
+    {
+      "id": "DSK",
+      "name": "Dilsukhnagar",
+      "lat": 17.3686,
+      "lon": 78.5251
+    },
+    {
+      "id": "MGL",
+      "name": "Malakpet",
+      "lat": 17.374,
+      "lon": 78.499
+    },
+    {
+      "id": "MGBS",
+      "name": "MG Bus Station",
+      "lat": 17.3764,
+      "lon": 78.4733
+    },
+    {
+      "id": "NAM",
+      "name": "Nampally",
+      "lat": 17.4162,
+      "lon": 78.459
+    },
+    {
+      "id": "AME",
+      "name": "Ameerpet",
+      "lat": 17.437,
+      "lon": 78.448
+    },
+    {
+      "id": "MDH",
+      "name": "Madhapur",
+      "lat": 17.435,
+      "lon": 78.393
+    },
+    {
+      "id": "HITEC",
+      "name": "HITEC City",
+      "lat": 17.4441,
+      "lon": 78.3766
+    },
+    {
+      "id": "MIY",
+      "name": "Miyapur",
+      "lat": 17.497,
+      "lon": 78.3906
+    },
+    {
+      "id": "KPHB",
+      "name": "KPHB Colony",
+      "lat": 17.4837,
+      "lon": 78.3914
+    },
+    {
+      "id": "BEG",
+      "name": "Begumpet",
+      "lat": 17.4444,
+      "lon": 78.4632
+    },
+    {
+      "id": "PRD",
+      "name": "Parade",
+      "lat": 17.4283,
+      "lon": 78.468
+    },
+    {
+      "id": "JBS",
+      "name": "Jubilee Bus Station",
+      "lat": 17.4443,
+      "lon": 78.4741
+    },
+    {
+      "id": "SEC",
+      "name": "Secunderabad",
+      "lat": 17.434,
+      "lon": 78.501
+    },
+    {
+      "id": "SAB",
+      "name": "Shah Ali Banda",
+      "lat": 17.37,
+      "lon": 78.46
+    },
+    {
+      "id": "CHA",
+      "name": "Charminar",
+      "lat": 17.3616,
+      "lon": 78.4747
+    },
+    {
+      "id": "HYB",
+      "name": "Hyderabad Deccan",
+      "lat": 17.3833,
+      "lon": 78.4666
+    },
+    {
+      "id": "LKD",
+      "name": "Lakdikapul",
+      "lat": 17.4108,
+      "lon": 78.4476
+    },
+    {
+      "id": "UPL",
+      "name": "Uppal",
+      "lat": 17.4117,
+      "lon": 78.5574
+    },
+    {
+      "id": "TNA",
+      "name": "Tarnaka",
+      "lat": 17.4441,
+      "lon": 78.528
+    },
+    {
+      "id": "MTG",
+      "name": "Mettuguda",
+      "lat": 17.4466,
+      "lon": 78.5176
+    },
+    {
+      "id": "KTH",
+      "name": "Kothaguda",
+      "lat": 17.4645,
+      "lon": 78.366
+    },
+    {
+      "id": "KDP",
+      "name": "Kondapur",
+      "lat": 17.4614,
+      "lon": 78.361
+    },
+    {
+      "id": "GAC",
+      "name": "Gachibowli",
+      "lat": 17.4401,
+      "lon": 78.3489
+    },
+    {
+      "id": "NKR",
+      "name": "Nanakramguda",
+      "lat": 17.418,
+      "lon": 78.358
+    },
+    {
+      "id": "MKD",
+      "name": "Manikonda",
+      "lat": 17.405,
+      "lon": 78.376
+    },
+    {
+      "id": "NRS",
+      "name": "Narsingi",
+      "lat": 17.389,
+      "lon": 78.36
+    },
+    {
+      "id": "FNM",
+      "name": "Film Nagar",
+      "lat": 17.42,
+      "lon": 78.411
+    },
+    {
+      "id": "JHB",
+      "name": "Jubilee Hills",
+      "lat": 17.4239,
+      "lon": 78.4112
+    },
+    {
+      "id": "BNH",
+      "name": "Banjara Hills",
+      "lat": 17.4126,
+      "lon": 78.4392
+    },
+    {
+      "id": "SHK",
+      "name": "Shaikpet",
+      "lat": 17.4,
+      "lon": 78.4
+    },
+    {
+      "id": "GLK",
+      "name": "Golconda",
+      "lat": 17.38,
+      "lon": 78.4
+    },
+    {
+      "id": "KKP",
+      "name": "Kukatpally",
+      "lat": 17.4948,
+      "lon": 78.407
+    },
+    {
+      "id": "MPT",
+      "name": "Moosapet",
+      "lat": 17.4634,
+      "lon": 78.418
+    },
+    {
+      "id": "ERR",
+      "name": "Erragadda",
+      "lat": 17.459,
+      "lon": 78.424
+    },
+    {
+      "id": "SNT",
+      "name": "Sanathnagar",
+      "lat": 17.456,
+      "lon": 78.436
+    },
+    {
+      "id": "BLN",
+      "name": "Balanagar",
+      "lat": 17.47,
+      "lon": 78.442
+    },
+    {
+      "id": "NIZ",
+      "name": "Nizampet",
+      "lat": 17.51,
+      "lon": 78.39
+    },
+    {
+      "id": "BCH",
+      "name": "Bachupally",
+      "lat": 17.54,
+      "lon": 78.39
+    },
+    {
+      "id": "CHN",
+      "name": "Chandanagar",
+      "lat": 17.49,
+      "lon": 78.33
+    },
+    {
+      "id": "LNP",
+      "name": "Lingampally",
+      "lat": 17.49,
+      "lon": 78.32
+    },
+    {
+      "id": "PTC",
+      "name": "Patancheru",
+      "lat": 17.53,
+      "lon": 78.26
+    },
+    {
+      "id": "SRN",
+      "name": "SR Nagar",
+      "lat": 17.4432,
+      "lon": 78.4415
+    },
+    {
+      "id": "PNG",
+      "name": "Punjagutta",
+      "lat": 17.425,
+      "lon": 78.451
+    },
+    {
+      "id": "SMJ",
+      "name": "Somajiguda",
+      "lat": 17.425,
+      "lon": 78.454
+    },
+    {
+      "id": "KHR",
+      "name": "Khairatabad",
+      "lat": 17.412,
+      "lon": 78.46
+    },
+    {
+      "id": "BSB",
+      "name": "Basheerbagh",
+      "lat": 17.402,
+      "lon": 78.473
+    },
+    {
+      "id": "HMT",
+      "name": "Himayatnagar",
+      "lat": 17.404,
+      "lon": 78.479
+    },
+    {
+      "id": "KOT",
+      "name": "Koti",
+      "lat": 17.387,
+      "lon": 78.479
+    },
+    {
+      "id": "ABD",
+      "name": "Abids",
+      "lat": 17.391,
+      "lon": 78.474
+    },
+    {
+      "id": "KCG",
+      "name": "Kachiguda",
+      "lat": 17.389,
+      "lon": 78.489
+    },
+    {
+      "id": "NRY",
+      "name": "Narayanguda",
+      "lat": 17.397,
+      "lon": 78.483
+    },
+    {
+      "id": "DBP",
+      "name": "Dabeerpura",
+      "lat": 17.37,
+      "lon": 78.48
+    },
+    {
+      "id": "MGP",
+      "name": "Moghalpura",
+      "lat": 17.37,
+      "lon": 78.47
+    },
+    {
+      "id": "KRW",
+      "name": "Karwan",
+      "lat": 17.38,
+      "lon": 78.45
+    },
+    {
+      "id": "MDP",
+      "name": "Mehdipatnam",
+      "lat": 17.396,
+      "lon": 78.438
+    },
+    {
+      "id": "TLC",
+      "name": "Tolichowki",
+      "lat": 17.405,
+      "lon": 78.415
+    },
+    {
+      "id": "ATP",
+      "name": "Attapur",
+      "lat": 17.37,
+      "lon": 78.43
+    },
+    {
+      "id": "RJN",
+      "name": "Rajendranagar",
+      "lat": 17.33,
+      "lon": 78.4
+    },
+    {
+      "id": "SHB",
+      "name": "Shamshabad",
+      "lat": 17.24,
+      "lon": 78.43
+    },
+    {
+      "id": "FLK",
+      "name": "Falaknuma",
+      "lat": 17.34,
+      "lon": 78.47
+    },
+    {
+      "id": "BDP",
+      "name": "Bahadurpura",
+      "lat": 17.35,
+      "lon": 78.46
+    },
+    {
+      "id": "SNN",
+      "name": "Santosh Nagar",
+      "lat": 17.35,
+      "lon": 78.49
+    },
+    {
+      "id": "HBS",
+      "name": "Habsiguda",
+      "lat": 17.415,
+      "lon": 78.54
+    },
+    {
+      "id": "NCM",
+      "name": "Nacharam",
+      "lat": 17.42,
+      "lon": 78.55
+    },
+    {
+      "id": "RMP",
+      "name": "Ramanthapur",
+      "lat": 17.4,
+      "lon": 78.535
+    },
+    {
+      "id": "BPL",
+      "name": "Boduppal",
+      "lat": 17.4,
+      "lon": 78.58
+    },
+    {
+      "id": "MDY",
+      "name": "Medipally",
+      "lat": 17.41,
+      "lon": 78.59
+    },
+    {
+      "id": "VST",
+      "name": "Vanasthalipuram",
+      "lat": 17.34,
+      "lon": 78.55
+    },
+    {
+      "id": "HYT",
+      "name": "Hayathnagar",
+      "lat": 17.33,
+      "lon": 78.6
+    },
+    {
+      "id": "YPL",
+      "name": "Yapral",
+      "lat": 17.51,
+      "lon": 78.53
+    },
+    {
+      "id": "ALW",
+      "name": "Alwal",
+      "lat": 17.51,
+      "lon": 78.51
+    },
+    {
+      "id": "SCH",
+      "name": "Suchitra",
+      "lat": 17.51,
+      "lon": 78.48
+    },
+    {
+      "id": "KMP",
+      "name": "Kompally",
+      "lat": 17.54,
+      "lon": 78.49
+    },
+    {
+      "id": "MDC",
+      "name": "Medchal",
+      "lat": 17.63,
+      "lon": 78.48
+    },
+    {
+      "id": "SMP",
+      "name": "Shamirpet",
+      "lat": 17.59,
+      "lon": 78.57
+    },
+    {
+      "id": "DGD",
+      "name": "Dundigal",
+      "lat": 17.59,
+      "lon": 78.42
+    },
+    {
+      "id": "MLA",
+      "name": "Malkajgiri",
+      "lat": 17.45,
+      "lon": 78.53
+    }
+  ],
+  "services": [
+    {
+      "id": "METRO_BLUE",
+      "name": "Metro Blue Line",
+      "mode": "metro",
+      "reliability": 0.96,
+      "stops": [
+        "NGN",
+        "LBN",
+        "DSK",
+        "MGL",
+        "MGBS",
+        "NAM",
+        "AME",
+        "MDH",
+        "HITEC"
+      ]
+    },
+    {
+      "id": "METRO_RED",
+      "name": "Metro Red Line",
+      "mode": "metro",
+      "reliability": 0.95,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "BEG",
+        "PRD",
+        "JBS",
+        "SEC"
+      ]
+    },
+    {
+      "id": "METRO_GREEN",
+      "name": "Metro Green Line",
+      "mode": "metro",
+      "reliability": 0.94,
+      "stops": [
+        "JBS",
+        "SAB",
+        "CHA",
+        "MGBS"
+      ]
+    },
+    {
+      "id": "MMTS_DECCAN",
+      "name": "MMTS Train",
+      "mode": "train",
+      "reliability": 0.88,
+      "stops": [
+        "SEC",
+        "BEG",
+        "LKD",
+        "NAM",
+        "HYB"
+      ]
+    },
+    {
+      "id": "BUS_8A",
+      "name": "Bus 8A",
+      "mode": "bus",
+      "reliability": 0.82,
+      "stops": [
+        "LBN",
+        "DSK",
+        "MGL",
+        "MGBS",
+        "NAM",
+        "AME"
+      ]
+    },
+    {
+      "id": "BUS_100",
+      "name": "Bus 100",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "HITEC",
+        "MDH",
+        "AME",
+        "BEG",
+        "PRD",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_47",
+      "name": "Bus 47",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "NAM",
+        "MGBS"
+      ]
+    },
+    {
+      "id": "BUS_15H",
+      "name": "Bus 15H",
+      "mode": "bus",
+      "reliability": 0.81,
+      "stops": [
+        "LBN",
+        "UPL",
+        "TNA",
+        "MTG",
+        "SEC"
+      ]
+    },
+    {
+      "id": "BUS_10",
+      "name": "Bus 10",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "MGBS",
+        "KPHB",
+        "MIY"
+      ]
+    },
+    {
+      "id": "BUS_222",
+      "name": "Bus 222",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "LBN",
+        "DSK",
+        "MGBS",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_1",
+      "name": "Bus 1",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "MGBS",
+        "CHA",
+        "SEC"
+      ]
+    },
+    {
+      "id": "BUS_3",
+      "name": "Bus 3",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "MGBS",
+        "NAM",
+        "BEG"
+      ]
+    },
+    {
+      "id": "BUS_5",
+      "name": "Bus 5",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "MGBS",
+        "PRD",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_7",
+      "name": "Bus 7",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "LBN",
+        "MGL",
+        "MGBS",
+        "NAM"
+      ]
+    },
+    {
+      "id": "BUS_9",
+      "name": "Bus 9",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "BEG"
+      ]
+    },
+    {
+      "id": "BUS_11",
+      "name": "Bus 11",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "SEC",
+        "BEG",
+        "AME",
+        "MDH"
+      ]
+    },
+    {
+      "id": "BUS_12",
+      "name": "Bus 12",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "UPL",
+        "LBN",
+        "DSK",
+        "MGL"
+      ]
+    },
+    {
+      "id": "BUS_16",
+      "name": "Bus 16",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "SEC",
+        "JBS",
+        "PRD",
+        "NAM"
+      ]
+    },
+    {
+      "id": "BUS_17",
+      "name": "Bus 17",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "HYB",
+        "NAM",
+        "LKD",
+        "AME"
+      ]
+    },
+    {
+      "id": "BUS_19",
+      "name": "Bus 19",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "SAB",
+        "CHA"
+      ]
+    },
+    {
+      "id": "BUS_23",
+      "name": "Bus 23",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "NAM"
+      ]
+    },
+    {
+      "id": "BUS_24",
+      "name": "Bus 24",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "LBN",
+        "UPL",
+        "TNA"
+      ]
+    },
+    {
+      "id": "BUS_26",
+      "name": "Bus 26",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "NAM",
+        "HYB"
+      ]
+    },
+    {
+      "id": "BUS_30",
+      "name": "Bus 30",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "JBS",
+        "SEC",
+        "TNA"
+      ]
+    },
+    {
+      "id": "BUS_31",
+      "name": "Bus 31",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "NAM",
+        "AME",
+        "BEG"
+      ]
+    },
+    {
+      "id": "BUS_32",
+      "name": "Bus 32",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "UPL",
+        "LBN",
+        "MGL",
+        "MGBS"
+      ]
+    },
+    {
+      "id": "BUS_33",
+      "name": "Bus 33",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "SEC",
+        "BEG",
+        "AME",
+        "MDH",
+        "HITEC"
+      ]
+    },
+    {
+      "id": "BUS_34",
+      "name": "Bus 34",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "LBN",
+        "DSK",
+        "MGL",
+        "MGBS"
+      ]
+    },
+    {
+      "id": "BUS_35",
+      "name": "Bus 35",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "BEG",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_37",
+      "name": "Bus 37",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "HYB",
+        "NAM",
+        "MGBS",
+        "CHA"
+      ]
+    },
+    {
+      "id": "BUS_38",
+      "name": "Bus 38",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "TNA",
+        "MTG",
+        "SEC",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_40",
+      "name": "Bus 40",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "NAM",
+        "AME",
+        "MDH"
+      ]
+    },
+    {
+      "id": "BUS_41",
+      "name": "Bus 41",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "LBN",
+        "UPL",
+        "TNA",
+        "SEC"
+      ]
+    },
+    {
+      "id": "BUS_42",
+      "name": "Bus 42",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MIY",
+        "KPHB",
+        "AME",
+        "NAM",
+        "MGBS"
+      ]
+    },
+    {
+      "id": "BUS_43",
+      "name": "Bus 43",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "JBS",
+        "BEG",
+        "AME",
+        "MDH"
+      ]
+    },
+    {
+      "id": "BUS_44",
+      "name": "Bus 44",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "CHA",
+        "SAB",
+        "JBS"
+      ]
+    },
+    {
+      "id": "BUS_45",
+      "name": "Bus 45",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "HYB",
+        "NAM",
+        "LKD",
+        "AME"
+      ]
+    },
+    {
+      "id": "BUS_46",
+      "name": "Bus 46",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "LBN",
+        "DSK",
+        "MGL",
+        "MGBS",
+        "SAB"
+      ]
+    },
+    {
+      "id": "BUS_49",
+      "name": "Bus 49",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "SEC",
+        "TNA",
+        "UPL",
+        "LBN"
+      ]
+    },
+    {
+      "id": "BUS_50",
+      "name": "Bus 50",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "NAM",
+        "AME",
+        "HITEC"
+      ]
+    },
+    {
+      "id": "BUS_216",
+      "name": "Bus 216",
+      "mode": "bus",
+      "reliability": 0.79,
+      "stops": [
+        "HITEC",
+        "KTH",
+        "KDP",
+        "GAC",
+        "NKR",
+        "NRS"
+      ]
+    },
+    {
+      "id": "BUS_5N",
+      "name": "Bus 5",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "MDH",
+        "FNM",
+        "JHB",
+        "BNH",
+        "SHK",
+        "GLK"
+      ]
+    },
+    {
+      "id": "BUS_218",
+      "name": "Bus 218",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "AME",
+        "SRN",
+        "MPT",
+        "ERR",
+        "SNT",
+        "BLN",
+        "KKP",
+        "KPHB"
+      ]
+    },
+    {
+      "id": "BUS_219",
+      "name": "Bus 219",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "KPHB",
+        "NIZ",
+        "BCH"
+      ]
+    },
+    {
+      "id": "BUS_220",
+      "name": "Bus 220",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MIY",
+        "CHN",
+        "LNP",
+        "PTC"
+      ]
+    },
+    {
+      "id": "BUS_65",
+      "name": "Bus 65",
+      "mode": "bus",
+      "reliability": 0.79,
+      "stops": [
+        "MGBS",
+        "ABD",
+        "BSB",
+        "HMT",
+        "PNG",
+        "SMJ",
+        "KHR",
+        "BNH"
+      ]
+    },
+    {
+      "id": "BUS_66",
+      "name": "Bus 66",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "MGBS",
+        "KOT",
+        "ABD",
+        "NRY",
+        "KCG"
+      ]
+    },
+    {
+      "id": "BUS_5M",
+      "name": "Bus 5M",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "NAM",
+        "LKD",
+        "MDP",
+        "TLC",
+        "SHK"
+      ]
+    },
+    {
+      "id": "BUS_9M",
+      "name": "Bus 9M",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MDP",
+        "ATP",
+        "RJN",
+        "SHB"
+      ]
+    },
+    {
+      "id": "BUS_1M",
+      "name": "Bus 1M",
+      "mode": "bus",
+      "reliability": 0.8,
+      "stops": [
+        "MGBS",
+        "CHA",
+        "DBP",
+        "MGP",
+        "FLK",
+        "BDP"
+      ]
+    },
+    {
+      "id": "BUS_2",
+      "name": "Bus 2",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MGBS",
+        "SNN",
+        "FLK"
+      ]
+    },
+    {
+      "id": "BUS_250",
+      "name": "Bus 250",
+      "mode": "bus",
+      "reliability": 0.79,
+      "stops": [
+        "SEC",
+        "TNA",
+        "HBS",
+        "NCM",
+        "UPL",
+        "BPL",
+        "MDY"
+      ]
+    },
+    {
+      "id": "BUS_277",
+      "name": "Bus 277",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "UPL",
+        "VST",
+        "HYT"
+      ]
+    },
+    {
+      "id": "BUS_24N",
+      "name": "Bus 24",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "SEC",
+        "MLA",
+        "YPL",
+        "ALW",
+        "SCH",
+        "KMP",
+        "MDC"
+      ]
+    },
+    {
+      "id": "BUS_25",
+      "name": "Bus 25",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "SEC",
+        "JBS",
+        "ALW",
+        "DGD"
+      ]
+    },
+    {
+      "id": "BUS_26N",
+      "name": "Bus 26",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "SCH",
+        "SMP"
+      ]
+    },
+    {
+      "id": "BUS_3M",
+      "name": "Bus 3M",
+      "mode": "bus",
+      "reliability": 0.77,
+      "stops": [
+        "MDP",
+        "MGP",
+        "KRW",
+        "GLK"
+      ]
+    },
+    {
+      "id": "BUS_90",
+      "name": "Bus 90",
+      "mode": "bus",
+      "reliability": 0.78,
+      "stops": [
+        "UPL",
+        "RMP",
+        "TNA"
+      ]
+    }
+  ],
+  "walk_links": [
+    {
+      "from": "AME",
+      "to": "BEG",
+      "distance_m": 750
+    },
+    {
+      "from": "MGBS",
+      "to": "HYB",
+      "distance_m": 950
+    },
+    {
+      "from": "SEC",
+      "to": "JBS",
+      "distance_m": 1600
+    },
+    {
+      "from": "BEG",
+      "to": "PRD",
+      "distance_m": 1850
+    },
+    {
+      "from": "NAM",
+      "to": "KOT",
+      "distance_m": 1600
+    },
+    {
+      "from": "MGBS",
+      "to": "KOT",
+      "distance_m": 1300
+    },
+    {
+      "from": "AME",
+      "to": "SRN",
+      "distance_m": 900
+    },
+    {
+      "from": "KPHB",
+      "to": "KKP",
+      "distance_m": 1600
+    },
+    {
+      "from": "MIY",
+      "to": "CHN",
+      "distance_m": 1400
+    },
+    {
+      "from": "SEC",
+      "to": "MLA",
+      "distance_m": 2400
+    },
+    {
+      "from": "BNH",
+      "to": "JHB",
+      "distance_m": 1500
+    },
+    {
+      "from": "MDP",
+      "to": "TLC",
+      "distance_m": 1300
+    }
+  ],
+  "settings": {
+    "walk_speed_kmh": 4.5,
+    "board_time_min": {
+      "metro": 2.0,
+      "train": 3.0,
+      "bus": 1.5
+    },
+    "speed_kmh": {
+      "metro": 34.0,
+      "train": 42.0,
+      "bus": 17.0
+    },
+    "road_factor": {
+      "metro": 1.05,
+      "train": 1.1,
+      "bus": 1.4
+    },
+    "dwell_min": 0.5
+  },
+  "fare_rules": {
+    "metro": [
+      [
+        2,
+        11
+      ],
+      [
+        4,
+        17
+      ],
+      [
+        6,
+        28
+      ],
+      [
+        9,
+        37
+      ],
+      [
+        12,
+        47
+      ],
+      [
+        15,
+        51
+      ],
+      [
+        18,
+        56
+      ],
+      [
+        21,
+        61
+      ],
+      [
+        24,
+        65
+      ],
+      [
+        9999,
+        69
+      ]
+    ],
+    "train": [
+      [
+        10,
+        5
+      ],
+      [
+        15,
+        6
+      ],
+      [
+        20,
+        7
+      ],
+      [
+        25,
+        8
+      ],
+      [
+        30,
+        9
+      ],
+      [
+        35,
+        10
+      ],
+      [
+        40,
+        11
+      ],
+      [
+        9999,
+        11
+      ]
+    ],
+    "bus": [
+      [
+        2,
+        15
+      ],
+      [
+        4,
+        15
+      ],
+      [
+        6,
+        20
+      ],
+      [
+        8,
+        25
+      ],
+      [
+        10,
+        25
+      ],
+      [
+        12,
+        30
+      ],
+      [
+        14,
+        30
+      ],
+      [
+        16,
+        30
+      ],
+      [
+        18,
+        30
+      ],
+      [
+        20,
+        35
+      ],
+      [
+        22,
+        35
+      ],
+      [
+        24,
+        35
+      ],
+      [
+        26,
+        35
+      ],
+      [
+        28,
+        35
+      ],
+      [
+        30,
+        40
+      ],
+      [
+        32,
+        40
+      ],
+      [
+        34,
+        40
+      ],
+      [
+        36,
+        40
+      ],
+      [
+        38,
+        40
+      ],
+      [
+        40,
+        45
+      ],
+      [
+        9999,
+        45
+      ]
+    ],
+    "walk": [
+      [
+        9999,
+        0
+      ]
+    ]
+  }
+}
